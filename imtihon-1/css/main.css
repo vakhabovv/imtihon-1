@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    background-color: #101010;
+}
+.header-inner {
+    display: flex;
+    align-items: center;
+}
+.ul-inner {
+    list-style-type: none;
+    display: flex;
+}
+p {
+    color: #636F87;
+}
+
+
+.header-div {
+    margin: 0;
+    padding: 10px 20px;
+}
+.logo-link {
+    padding: 30px 0px 31px 112px;
+    
+}
+.nav-inner {
+    justify-content: flex-start;
+}
+.nav-ul {
+    padding-left: 15px;
+}
+.nav-link {
+    text-decoration: none;
+    color: #101010;
+}
+.nav-link:hover {
+    color:  #1AAB7B;
+}
+h1 {  
+    font-size: 3em;
+}
+.text-h1 {  
+    color: #636F87;
+    padding-bottom: 70px;
+    margin: 0;
+}
+.div-left {
+padding: 0px 80px 0px 112px;
+margin: 0;
+}
+.container {
+    display: flex;
+    padding-top: 87px;
+    padding-bottom: 120px;
+}
+.vid {
+    border-radius: 6px;
+}
+.left-link {
+    padding: 20px 40px;
+    border: 3px;
+    color: #fff;
+    background-color: #1AAB7B;
+    border-radius:6px ;
+    text-decoration: none;
+}
+.item-inner {
+    margin:20px;
+  background-color: #F2F4F6;
+  border: 1px solid #E1E7ED;
+ border-radius: 6px;
+ 
+
+ }
+  .div-item {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    }
+h2 {
+    padding-top: 40px ;
+    text-align: center;
+}
+.text-head {
+    padding: 10px 20px;
+}
+.inner-div {
+    background-color: #F2F4F6;
+}
+.head {
+    padding-top: 40px;
+    padding-left: 20px;
+}
+.link-li {
+    padding-left: 20px;
+    text-decoration: none;
+    color: #101010;
+}
+.new-inner {
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.new-div {
+ 
+}
+.obshiy-div {
+    display:flex;
+    padding: 100px 30px 100px 112px;
+}
+.box {
+   padding-left: 40px;
+}
+.new-h {
+    font-size: 3em;
+}
+.old-div {
+    padding-left: 50px;
+}
+.yangi-div {
+    text-align: center;
+}
+.yangisi {
+    padding: 50px 216px 120px 216px;
+    text-align: center;
+    background-color: #F2F4F6;
+    border-radius: 6px;
+    
+}
+input {
+    border: none;
+    border-bottom: 2px solid ;
+    color: #101010;
+    display: ;
+}
+ form {
+    text-align: center;
+ }
+ 
